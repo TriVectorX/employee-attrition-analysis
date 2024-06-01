@@ -1,6 +1,6 @@
 ## IBM Employee Attrition Analysis
 
-This repository contains the Python source code for a logistic regression model aimed at predicting employee attrition. The analysis utilizes various machine learning techniques to preprocess the data, build predictive models, and evaluate their performance. The code includes the use of logistic regression to understand the impact of various factors on employee attrition and the application of K-means clustering for further insights.
+This repository contains the Python source code for a logistic regression model aimed at predicting employee attrition. The analysis utilizes various machine learning techniques to preprocess the data, build predictive models, and evaluate their performance. The code includes the use of logistic regression to understand the impact of various factors on employee attrition and the application of K-means clustering for further insights. I've also uploaded other supportive code samples, such as knn to check and evaluate the result of LogReg model.
 
 ### Structure of the Code
 
